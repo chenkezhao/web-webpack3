@@ -34,3 +34,8 @@ antd-m，react-router，用hashHistory.goBack()多次（多次试验大概是3�
 push和goBack难道有什么不同吗？
 
 求大神们指点...
+
+DEMO效果：
+![示例1](https://github.com/chenkezhao/web-webpack3/blob/master/doc/1.png)
+![示例2](https://github.com/chenkezhao/web-webpack3/blob/master/doc/2.png)
+![示例3](https://github.com/chenkezhao/web-webpack3/blob/master/doc/3.png)
